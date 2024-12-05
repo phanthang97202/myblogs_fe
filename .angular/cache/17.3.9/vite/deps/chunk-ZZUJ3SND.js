@@ -8,10 +8,6 @@ import {
   hasModifierKey
 } from "./chunk-T4JA2NQD.js";
 import {
-  BidiModule,
-  Directionality
-} from "./chunk-3OAW3AH7.js";
-import {
   Platform,
   RtlScrollAxisType,
   _getEventTarget,
@@ -20,11 +16,15 @@ import {
   supportsScrollBehavior
 } from "./chunk-DHSN6ZQW.js";
 import {
+  BidiModule,
+  Directionality
+} from "./chunk-3OAW3AH7.js";
+import {
   coerceArray,
   coerceCssPixelValue,
   coerceElement,
   coerceNumberProperty
-} from "./chunk-3BDDHGQ3.js";
+} from "./chunk-SQLRFIFY.js";
 import {
   DOCUMENT,
   Location
@@ -4516,4 +4516,4 @@ export {
   CdkConnectedOverlay,
   OverlayModule
 };
-//# sourceMappingURL=chunk-5RXNNTSI.js.map
+//# sourceMappingURL=chunk-ZZUJ3SND.js.map

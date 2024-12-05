@@ -1,18 +1,12 @@
 import {
-  NzOptionComponent,
-  NzOptionContainerComponent,
-  NzOptionGroupComponent,
-  NzOptionItemComponent,
-  NzOptionItemGroupComponent,
-  NzSelectArrowComponent,
-  NzSelectClearComponent,
-  NzSelectComponent,
-  NzSelectItemComponent,
-  NzSelectModule,
-  NzSelectPlaceholderComponent,
-  NzSelectSearchComponent,
-  NzSelectTopControlComponent
-} from "./chunk-X5V4OOIO.js";
+  NzPaginationComponent,
+  NzPaginationDefaultComponent,
+  NzPaginationItemComponent,
+  NzPaginationModule,
+  NzPaginationOptionsComponent,
+  NzPaginationSimpleComponent
+} from "./chunk-VHSDINPO.js";
+import "./chunk-X5V4OOIO.js";
 import "./chunk-QVEK6Y7R.js";
 import "./chunk-RF6ON4JH.js";
 import "./chunk-H5CIFMSQ.js";
@@ -42,18 +36,11 @@ import "./chunk-FV2OFNEH.js";
 import "./chunk-PCSJ3H3U.js";
 import "./chunk-EHLZM3EC.js";
 export {
-  NzOptionComponent,
-  NzOptionContainerComponent,
-  NzOptionGroupComponent,
-  NzOptionItemComponent,
-  NzOptionItemGroupComponent,
-  NzSelectArrowComponent,
-  NzSelectClearComponent,
-  NzSelectComponent,
-  NzSelectItemComponent,
-  NzSelectModule,
-  NzSelectPlaceholderComponent,
-  NzSelectSearchComponent,
-  NzSelectTopControlComponent
+  NzPaginationComponent,
+  NzPaginationDefaultComponent,
+  NzPaginationItemComponent,
+  NzPaginationModule,
+  NzPaginationOptionsComponent,
+  NzPaginationSimpleComponent
 };
-//# sourceMappingURL=ng-zorro-antd_select.js.map
+//# sourceMappingURL=ng-zorro-antd_pagination.js.map
